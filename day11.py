@@ -1,4 +1,4 @@
-#  For Loops
+# For Loops
 
 # 1. Basic for loop
 for i in range(1, 4):
