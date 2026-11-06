@@ -12,7 +12,7 @@ for i in range(1, 11):
 for i in range(1, 6, 2):
     print(i)
 
-# 4. Reverse numbers
+# 4.Reverse numbers
 for i in range(10, 0, -1):
     print(i)
 
